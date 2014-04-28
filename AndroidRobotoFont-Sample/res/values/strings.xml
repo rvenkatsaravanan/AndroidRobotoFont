@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidRobotoFont-Sample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="text">This is Roboto Textview </string>
+    <string name="edit">This is Roboto EditText </string>
+	<string name="toggle">This is Roboto ToggleButton </string>
+	<string name="text_normal">This is Normal Textview </string>
+	<string name="edit_normal">This is Normal EditText </string>
+	<string name="toggle_normal">This is Normal ToggleButton</string>
+</resources>
